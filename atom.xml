@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://paxyqi.github.io/"/>
-  <updated>2018-10-10T07:28:02.791Z</updated>
+  <updated>2018-10-10T09:48:31.437Z</updated>
   <id>http://paxyqi.github.io/</id>
   
   <author>
@@ -17,45 +17,25 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>写在前面</title>
+    <title>科幻迷de写在前面</title>
     <link href="http://paxyqi.github.io/2018/10/10/%E5%86%99%E5%9C%A8%E5%89%8D%E9%9D%A2/"/>
     <id>http://paxyqi.github.io/2018/10/10/写在前面/</id>
     <published>2018-10-10T07:25:06.000Z</published>
-    <updated>2018-10-10T07:28:02.791Z</updated>
+    <updated>2018-10-10T09:48:31.437Z</updated>
     
-    <content type="html"><![CDATA[<p>消灭人类暴政 世界属于三体</p>]]></content>
+    <content type="html"><![CDATA[<blockquote><p>消灭人类暴政 世界属于三体</p></blockquote><p>既然是第一篇博文，就说说自己从高三开始入门的科幻小说吧。第一本书自然就是当时大热的雨果奖得主《三体》，当时只是在暑期推荐书单上看到，说实话<code>东北师大附中</code>我们高中的推荐书单向来都是余秋雨之流，令人对写作兴致全无，但是我当时居然真的听信了这份书单，想来是我做过的正确决策之一了。<br><a id="more"></a><br>这本书作为科幻入门一共有三个好处：</p><ol><li>中国作家的写作手法<code>尤其是人名</code>对于刚刚入门的科幻迷来说十分友好,<strong>《银河帝国》系列</strong>实在是记住了第十一部的人名，就忘记了第一部的内容。</li><li>大刘的作品十分硬核，作为一个理综物理部分周考只考了14分的人，成功唤起我的物理兴趣。平时考试失利也会去看《三体》的第三部，一旦拥有了人类终将灭绝的大局观，目前我期末考了学年五百名也就不重要了。当然，既然是唤醒兴趣，成绩自然是有提高的，至少高考理综拿了<em>260</em>分。</li><li>《三体》这本书最大的好处，就是有一些很让人思考的东西，比如我文章开篇的引用，<strong>消灭人类暴政，世界属于三体</strong>，在奴隶制，封建制，自由市场逐一唱衰的时候，人类是否能控制好自己的欲望着实成为了究极课题。</li></ol>]]></content>
     
     <summary type="html">
     
-      
-      
-        &lt;p&gt;消灭人类暴政 世界属于三体&lt;/p&gt;
-
-      
+      &lt;blockquote&gt;
+&lt;p&gt;消灭人类暴政 世界属于三体&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;既然是第一篇博文，就说说自己从高三开始入门的科幻小说吧。第一本书自然就是当时大热的雨果奖得主《三体》，当时只是在暑期推荐书单上看到，说实话&lt;code&gt;东北师大附中&lt;/code&gt;我们高中的推荐书单向来都是余秋雨之流，令人对写作兴致全无，但是我当时居然真的听信了这份书单，想来是我做过的正确决策之一了。&lt;br&gt;&lt;/p&gt;
     
     </summary>
     
     
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="http://paxyqi.github.io/2018/05/06/hello-world/"/>
-    <id>http://paxyqi.github.io/2018/05/06/hello-world/</id>
-    <published>2018-05-06T09:25:39.877Z</published>
-    <updated>2018-05-06T09:25:39.877Z</updated>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
-      
-    
-    </summary>
-    
+      <category term="书籍推荐" scheme="http://paxyqi.github.io/tags/%E4%B9%A6%E7%B1%8D%E6%8E%A8%E8%8D%90/"/>
     
   </entry>
   
